@@ -5,7 +5,7 @@ namespace Compito_Vacanze
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             int a = int.MaxValue;
             Console.WriteLine(a);
             if (a == 214783647)
